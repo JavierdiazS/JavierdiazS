@@ -1,5 +1,5 @@
 
-# Hi I'm Camilo <img src="img/wave.gif" width="30px">
+# Hi I'm Camilo <img src="wave.gif" width="30px">
 
 My name is Camilo Diaz Salinas, I'm a Machine Learning/Software Engineer and Electronics Engineer.
 
