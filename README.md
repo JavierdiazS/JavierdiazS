@@ -4,6 +4,11 @@
 My name is Camilo Diaz Salinas, I'm a Machine Learning/Software Engineer and Electronics Engineer.
 
 I do it for fun. ⛩
+
+<a href="https://twitter.com/camilodiazs_">
+<img align="right" height="auto" width="200" src="AI_d.png"/>
+</a>
+
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=green)
