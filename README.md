@@ -14,7 +14,7 @@ My goal is to create complex and challenging projects, learning and helping alon
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
- <img align="right" height="380px" width= "380px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V2M2xmMGZ3YzBndHlkZXhuMjZvYXR1MW9qcTg2MzkxbHRhOG9wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GZjZqk1MKbBdN5AUfK/giphy.gif" />
+<a href="https://imgbb.com/"><img align="right" height="380px" width= "380px" alt="GIF" src="https://i.ibb.co/dtN1Zyd/ezgif-com-effects.gif" alt="ezgif-com-effects" border="0"></a>
 
 **Programming languages**
 * Python, R, C, C#, Java and JavaScript
@@ -46,7 +46,7 @@ My goal is to create complex and challenging projects, learning and helping alon
   
   ![JavierdiazS's Stats](https://github-readme-stats.vercel.app/api?username=JavierdiazS&theme=gotham&show_icons=true&hide_border=true&count_private=true)
   ![JavierdiazS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierdiazS&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierdiazS&bg_color=00141f&color=14ffb9&line=28e256&point=dafbe4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JavierdiazS&bg_color=0d1117&color=2aa889&line=33e65f&point=dafbe4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 <div align=center>
