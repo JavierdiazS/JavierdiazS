@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/github/stars/JavierdiazS?label=Stars" alt="Total Stars">
 </p>
 
+I'm a passionate professional practitioner in the data world.
+
+My goal is to create complex and challenging projects, learning and helping along the way.
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
  <img align="right" height="380px" width= "380px" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2V2M2xmMGZ3YzBndHlkZXhuMjZvYXR1MW9qcTg2MzkxbHRhOG9wbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GZjZqk1MKbBdN5AUfK/giphy.gif" />
